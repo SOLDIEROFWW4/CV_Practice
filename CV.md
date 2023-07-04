@@ -2,7 +2,7 @@
  Curriculum Vitae
 
 > # Maksakau Maksim
-![Face Reveal]()
+![Face Reveal](https://imgur.com/qsRqTNz)
 > ## Age: ???
 
 __
