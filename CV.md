@@ -30,10 +30,10 @@ __
 * How can you tell an extrovert from an introvert at NSA?
 Va gur ryringbef, gur rkgebireg ybbxf ng gur BGURE thl'f fubrf.
 
-I found this joke on USENET, but the punchline is scrambled. Maybe you can decipher it?
+* I found this joke on USENET, but the punchline is scrambled. Maybe you can decipher it?
 According to Wikipedia, ROT13 is frequently used to obfuscate jokes on USENET.
 
-For this task you're only supposed to substitute characters. Not spaces, punctuation, numbers, etc.
+* For this task you're only supposed to substitute characters. Not spaces, punctuation, numbers, etc.
 
 ```C#
 public static string Rot13(string input)
@@ -106,7 +106,7 @@ public static bool Scramble(string str1, string str2)
 
 * The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.
 
-Note: Your answer should always be 6 characters long, the shorthand with 3 will not work here.
+* Note: Your answer should always be 6 characters long, the shorthand with 3 will not work here.
 
 ```C#
   public static string Rgb(int r, int g, int b) 
