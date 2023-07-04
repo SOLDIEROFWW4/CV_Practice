@@ -5,27 +5,28 @@
 ![Face Reveal](https://i.imgur.com/qsRqTNz.png)
 > ## Age: ???
 
-__
+---
 > ### Contacts
 * [Telegram](https://t.me/MMA2K2)
 * [VK](https://vk.com/bluedrygloss)
 * [GitHub](https://github.com/SOLDIEROFWW4)
 
-__
+---
 > ## Something About Myself:
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-__
+---
 > ### My Skills:
 1. [C# CodeWars 6kyu](https://www.codewars.com/users/GreyEyedAngel)
 2. T-SQL (Microsoft SQL Server, Microsoft Access)
 
-__
+---
 > ### Language Skills:
-1. English Level: A2 (According to EPAM English  Test), B1 (According to A1QA English Speaking and Grammar Test)
+1. English Level: A2 (According to EPAM English Test), B1 (According to A1QA English Speaking and Grammar Test)
 2. Russian Level: C2 (Native Speaker)
 3. Belarussian Level: C2 (Native Speaker)
 
+---
 > ### Solved CodeWars Katas (Code Example)
 * How can you tell an extrovert from an introvert at NSA?
 Va gur ryringbef, gur rkgebireg ybbxf ng gur BGURE thl'f fubrf.
